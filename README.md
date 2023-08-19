@@ -23,3 +23,4 @@ Data Cleaning and Analysis: Python, Pandas, NumPy
 Model Training: Scikit-learn, Machine Learning Algorithms
 Serialization: Pickle
 Web Development: Flask, HTML, CSS, Bootstrap, JavaScript
+
