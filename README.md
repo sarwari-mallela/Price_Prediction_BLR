@@ -24,3 +24,4 @@ Model Training: Scikit-learn, Machine Learning Algorithms
 Serialization: Pickle
 Web Development: Flask, HTML, CSS, Bootstrap, JavaScript
 
+![image](https://github.com/sarwari-mallela/Price_Prediction_BLR/assets/123460981/b364b323-340a-4fcd-9800-5512db3e2b17)
